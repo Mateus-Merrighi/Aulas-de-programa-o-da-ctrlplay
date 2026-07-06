@@ -1,0 +1,10 @@
+Robson: Tudo bem?
+Chatbot: Tudo, como posso ajudar?
+Robson: Qual o jogo de pokemon mais vendido?
+Chatbot: O jogo mais vendido da franquia √© Pokemon Red, Blue e Green
+Robson: Qual s√£o os 5 animais mais perigosos do mundo?
+Chatbot: Os animais mais perigosos do mundo s√£o 
+Robson: Quanto que È 20+20+20+7
+Chatbot: Ai È muito facil professora È 67
+Robson: Quanto È 20+20+20+7?
+Chatbot: Ai È muito facil professora È 67
