@@ -1,0 +1,9 @@
+<title> colocar um titulo em sua web no html</title>
+<p> fazer um paragrafo</p>
+<h1> titulo na pagina</h1>
+<h2> subtitulo </h2>
+<meta fala a confg do nosso site >
+<b> negrito </b>
+<u> sublinhado </u>
+<br> quebra de linha
+<button> botão </button>
