@@ -1,0 +1,10 @@
+<a href link de algum site>nome desejado</a> 
+caso colocado target= "_blanck", abre nova aba, target= "_self", abre na mesma aba
+<ul> lista, precisa de <li>, linhas para aparecer na web
+<ol> lista ordenada, precisa de <li>
+<hr> adiciona uma linha horizontal
+<inframe> adiciona um site diretamente na mesma pagina, as vezes e necessário mudar a widht e a height
+<table> tabela, presisa do <tr>(linha da tabela), e precisa de <th>(titulos para cada linha)
+ou <td>(valor sem ser o titulo de cada coluna)
+&copy direito atoral de usar aquele site
+&reg marca resgistrada
