@@ -1,0 +1,11 @@
+<header> cabeçalho da pagina <\header>, precisa de h1...
+<span> texto sem recuo
+<nav> meio da pagina
+<footer> rodape, aparece no final da pagin
+<article> lida independentemente das outra
+<section> seção da pagina
+<time> datas
+<aside> coisas n relacionadas com o conteudo do site
+<audio> adicionar music
+controls para aparecer as opçoes de audio
+<source para pesquisar o som ou video + type se é arquivo ou video
