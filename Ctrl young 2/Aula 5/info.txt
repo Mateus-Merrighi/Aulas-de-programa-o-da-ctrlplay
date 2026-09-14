@@ -1,0 +1,8 @@
+h1, ou qualquer outra tag,{ color:, muda a cor, font-family, muda a fonte}
+class, pega mais de uma tag ,= nome da classe que vc qualquer
+depois colocar .nome da class
+tag nome do por exemplo h1
+<div> criar uma divisão um bloco no codigo
+font- size, px ou em ou %( em mutiplica do tamanho original, % porcetagem)
+Hexadecimal # 6 valores entre 0 e 9 e a à f; muda a cor
+pode ser o nome da cor ou rgb 

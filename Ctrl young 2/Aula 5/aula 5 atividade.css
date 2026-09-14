@@ -1,0 +1,12 @@
+#Cartao{
+    background-color: #006400;
+    width: 900px;
+    text-align: center;
+}
+h1{
+    color: crimson;
+}
+.profissao{
+    font-style: italic;
+    font-size: 50px;
+}
