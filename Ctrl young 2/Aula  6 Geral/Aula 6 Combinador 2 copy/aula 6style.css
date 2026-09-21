@@ -1,0 +1,7 @@
+#ProximoParagrafo + p{
+    font-weight: bold;
+    color: rgb(61, 153, 165);
+}
+.referencial-geral ~ p{
+    background-color: coral;
+}

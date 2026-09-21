@@ -1,0 +1,3 @@
+descendent : independentemente da distancia o elemento sera selecionado, ex: table h2{caracteristicas}
+filhos direto : pega apenas os mais proximos da tag, <div> <p> <p> ,enter> <p>, apenas os dois primeiro p serão mudados
+div<p{caracteristicas}

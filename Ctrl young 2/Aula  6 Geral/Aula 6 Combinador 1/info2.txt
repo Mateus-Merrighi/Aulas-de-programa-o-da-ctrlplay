@@ -1,0 +1,10 @@
+descendent : independentemente da distancia o elemento sera selecionado, ex: table h2{caracteristicas}
+filhos direto : pega apenas os mais proximos da tag, <div> <p> <p> ,enter> <p>, apenas os dois primeiro p serão mudados
+ex: div<p{caracteristicas}
+irmãos adjacentes: prga um depois da tag escolhida, ex: ProximoParagrafo + p{}
+irmãos geral : pega todos depois da tag, ex: referencial-geral ~ p{}
+pseudoclass: altera uma classe baseado em uma ação
+pseudoelemento : muda um elemento, como a primeira letra de um texto
+tabela ou lista tag: nth-child(even), muda os elementos da ordem par de uma lista ou tabela
+tabela ou lista tag: nth-child(odd), muda os elementos da ordem impar de uma lista ou tabela
+tabela ou lista tag: nth-child(numero da linha ou coluna), muda o elemento da da linha ou coluna de uma lista ou tabela
