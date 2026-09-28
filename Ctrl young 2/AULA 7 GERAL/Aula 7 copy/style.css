@@ -1,0 +1,17 @@
+img[src="img/imagem2.jpg"]{
+    border-radius: 50%;
+    border: 3px solid red;
+}
+a[href^="pasta1/"] {
+    color: orange;
+    text-transform: bold;
+}
+a[href$=".pdf"]{
+    color: rgb(238, 21, 21);
+    text-transform: uppercase;
+}
+a[href*="contato"]{
+    color: rgb(21, 238, 21);
+    background-color: lightgreen;
+    padding: 5px;
+}

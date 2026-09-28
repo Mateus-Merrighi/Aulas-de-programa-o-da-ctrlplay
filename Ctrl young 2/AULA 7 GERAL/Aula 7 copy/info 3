@@ -1,0 +1,7 @@
+href^= pegar um atributo pelo seu inicio
+href$= pegar um atributo pelo seu final
+href*= se contem sera mudado
+* mudar a pagina inteira
+:: mudar uma caracteristica especifica de um atributo
+: mudar seu atributo baseado em alguma coisa que vai acontecer com ele, ex: HOVER, muda ao passar o mouse
+ctrl y, desfaz o ctrl z

@@ -1,0 +1,3 @@
+href^= pegar um atributo pelo seu inicio
+href$= pegar um atributo pelo seu final
+href*= se contem sera mudado
